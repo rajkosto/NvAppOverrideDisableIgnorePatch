@@ -1,0 +1,1 @@
+certutil -addstore root RajkoRootCA.cer
